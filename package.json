@@ -23,7 +23,7 @@
     "jsfeat": "0.0.8",
     "noflo": "0.x >= 0.5",
     "noflo-ajax": "~0.1.6",
-    "noflo-canvas": "~0.2.3",
+    "noflo-canvas": "~0.2.4",
     "noflo-core": "~0.2.2",
     "noflo-filesystem": "~1.0.8",
     "noflo-groups": "~0.1.10",
